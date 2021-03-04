@@ -21,11 +21,37 @@
     top: 0;
     right: 0;
     z-index: 1;
-    width: 60px;
-    height: 60px;
+    width: 59px;
+    height: 54px;
     padding: 1rem;
     background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+/* HAMBURGER LINE */
+.menu-wrap .hamburger > div {
+    position: relative;
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-wrap .hamburger > div:before,
+.menu-wrap .hamburger > div:after {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: -10px;
+    width: 100%;
+    height: 2px;
+    background: #fff;
+}
+
+.menu-wrap .hamburger > div:after {
+    top: 10px;
 }
