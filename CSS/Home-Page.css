@@ -1,7 +1,10 @@
 body {
     background-color: #845ec2;
+    font-family: 'Roboto Mono', monospace;
 }
 
 h1 {
     color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4rem;
 }
