@@ -8,3 +8,9 @@ h1 {
     font-family: 'Roboto Mono', monospace;
     font-size: 4rem;
 }
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
