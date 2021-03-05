@@ -58,6 +58,7 @@ font-size: 4rem;
 
 a {
 font-family: 'Crimson Text', serif;
+display: inline-block;
 }
 
 
