@@ -85,6 +85,11 @@ visibility: visible;
 transform: scale(1);
 }
 
+.menu-wrap .toggler:checked ~ .menu > div > div {
+    opacity: 1;
+    transition: opacity 0.4s ease;
+}
+
 .menu-wrap .menu {
 position: fixed;
 top: 0;
