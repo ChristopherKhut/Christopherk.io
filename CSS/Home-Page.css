@@ -39,11 +39,11 @@ justify-content: center;
 
 .image_title {
 
-font-size: 2rem;
+font-size: 4rem;
 }
 
 a {
-    text-decoration: none;
+    font-family: 'Crimson Text', serif;
 }
 
 
