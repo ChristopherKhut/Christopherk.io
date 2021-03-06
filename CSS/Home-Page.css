@@ -1,3 +1,4 @@
+/*WINDOW MODE*/
 body {
 background-color: #845ec2;
 font-family: 'Roboto Mono', monospace;
@@ -86,5 +87,13 @@ display: inline-block;
     text-align: left;
     margin-top: -400px;
     padding-left: 20px;
+}
+
+@media all and (max-width:500px) {
+    h1 {
+        font-size: 1.5rem;
+        padding-top: 50px;
+    }
+    
 }
 
