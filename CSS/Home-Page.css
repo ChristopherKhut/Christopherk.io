@@ -75,3 +75,14 @@ a {
 display: inline-block;
 }
 
+.border-text {
+    font-size: 1.5rem;
+    font-family: 'DotGothic16', sans-serif;
+    border: 3px dashed #f9f871;
+    width: 40%;
+    float: right;
+    text-align: left;
+    margin-top: -400px;
+    padding-left: 20px;
+}
+
