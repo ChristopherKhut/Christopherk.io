@@ -32,10 +32,12 @@ top:180px;
 }
 
 .image {
+border: 3px solid black;
 display: inline;
 }
 
 .overlay {
+border: 3px solid #ffc75f;
 position: absolute;
 top: 0;
 left: 0;
