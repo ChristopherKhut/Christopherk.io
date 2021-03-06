@@ -9,6 +9,13 @@ font-family: 'Roboto Mono', monospace;
 font-size: 4rem;
 }
 
+.flexbox {
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
 
 
 img {
@@ -19,11 +26,14 @@ display: inline;
 
 .content-wrapper {
 position: relative;
-margin: 200px;
+margin: 50px 150px;
+left: -150px;
+top:180px;
+align-items: center;
 }
 
 .image {
-display: inline;   
+display: inline; 
 }
 
 .overlay {
@@ -56,10 +66,12 @@ transform: translateY(0);
 }
 
 .image_title {
-font-size: 2rem;
+font-size: 2.5rem;
+font-weight: bold;
+color:#b8b5ff;
+font-family: 'Crimson Text', serif;
 }
 
 a {
-font-family: 'Crimson Text', serif;
 display: inline-block;
 }
