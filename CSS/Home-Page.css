@@ -79,23 +79,29 @@ display: inline-block;
 }
 
 .border-text {
-    font-size: 1.5rem;
-    font-family: 'DotGothic16', sans-serif;
-    border: 3px dashed #f9f871;
-    width: 40%;
-    float: right;
-    text-align: left;
-    margin-top: -400px;
-    padding-left: 20px;
+font-size: 1.5rem;
+font-family: 'DotGothic16', sans-serif;
+border: 3px dashed #f9f871;
+width: 40%;
+float: right;
+text-align: left;
+margin-top: -400px;
+padding-left: 20px;
 }
 
 @media all and (max-width:572px) {
-    h1 {
-        font-size: 2rem;
-        padding-top: 50px;
-    }
-    .flexbox {
-        padding-left: 100px;
-    }
+h1 {
+font-size: 2rem;
+padding-top: 50px;
+}
+.flexbox {
+padding-left: 60px;
+}
+
+img, .overlay {
+    width: 400px;
+    height: 240px;
+}
+
 }
 
