@@ -89,11 +89,13 @@ display: inline-block;
     padding-left: 20px;
 }
 
-@media all and (max-width:500px) {
+@media all and (max-width:572px) {
     h1 {
-        font-size: 1.5rem;
+        font-size: 2rem;
         padding-top: 50px;
     }
-    
+    .flexbox {
+        padding-left: 100px;
+    }
 }
 
