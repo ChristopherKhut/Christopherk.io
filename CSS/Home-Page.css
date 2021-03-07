@@ -11,10 +11,10 @@ font-size: 4rem;
 }
 
 .flexbox {
-    display: flex;
-    flex-wrap:wrap;
-    flex-direction: row;
-    align-items: center;
+display: flex;
+flex-wrap:wrap;
+flex-direction: row;
+align-items: center;
 }
 
 
@@ -89,6 +89,15 @@ margin-top: -400px;
 padding-left: 20px;
 }
 
+/*TABLET SIZE*/
+@media (max-width:770px) {
+.border-text {
+margin-top: -1000px;
+margin-right: px;
+}
+}
+
+/*IPhone Size*/
 @media all and (max-width:572px) {
 h1 {
 font-size: 2rem;
@@ -100,20 +109,19 @@ margin-top: 100px;
 }
 
 img, .overlay {
-    width: 400px;
-    height: 240px;
+width: 400px;
+height: 240px;
 }
 
 .border-text {
-    font-weight: bold;
-    width: 60%;
-    position:absolute;
-    text-align: center;
-    text-justify:inter-word;
-    font-size: 13px;
-    justify-content: center;
-    margin-top: -1450px;
-    margin-left: 65px;
+font-weight: bold;
+width: 60%;
+position:absolute;
+text-align: center;
+text-justify:inter-word;
+font-size: 13px;
+justify-content: center;
+margin-top: -1450px;
+margin-left: 65px;
 }
 }
-
