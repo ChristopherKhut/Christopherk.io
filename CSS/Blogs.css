@@ -1,0 +1,28 @@
+.Panda_IMG {
+width:600px;
+height:400px;
+display: flex;
+padding: 10px;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+}
+
+
+/*TABLET*/
+@media screen and (min-width: 1200px){
+    .flex-container {
+        flex-direction: row;
+    }
+}
+/*PHONE SIZE*/
+@media screen and (max-width:1200px) and (min-width:500px) {
+    h1 {
+        font-size: 3rem;
+        padding-left: 50px;
+    }
+}
