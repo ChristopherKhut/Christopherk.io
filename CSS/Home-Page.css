@@ -89,16 +89,8 @@ margin-top: -400px;
 padding-left: 20px;
 }
 
-/*TABLET SIZE*/
-@media (max-width:770px) {
-.border-text {
-margin-top: -1000px;
-margin-right: px;
-}
-}
-
 /*IPhone Size*/
-@media all and (max-width:572px) {
+@media (max-width:959px) {
 h1 {
 font-size: 2rem;
 padding-top: 50px;
@@ -125,3 +117,11 @@ margin-top: -1450px;
 margin-left: 65px;
 }
 }
+
+/*TABLET SIZE*/
+@media (max-width:1024px) and (min-width:960px) {
+    .border-text {
+    margin-top:-800px;
+    margin-right: 100px;
+    }
+    }
