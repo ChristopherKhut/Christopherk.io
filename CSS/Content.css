@@ -1,5 +1,23 @@
+body {
+    background-color: black;
+}
+
 h2 {
     font-family: 'Playfair Display', serif;
     font:1rem;
-    color: #94ebcd;
+    color: #e5eceab9;
+}
+
+.Border-Content {
+    border: 2px dotted yellow;
+    width: 50%;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+ul {
+    list-style: none;
 }
