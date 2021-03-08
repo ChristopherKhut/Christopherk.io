@@ -1,0 +1,21 @@
+.contact-title {
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+.Contact-email {
+    width: 500px;
+    height: 350px;
+    margin-bottom: 50px;
+    border: 2px solid yellow;
+}
+
+.contact-wrapper {
+    padding-top: 100px;
+    padding-left: 40px;
+}
+
+.contact-p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
