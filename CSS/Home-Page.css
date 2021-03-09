@@ -75,29 +75,6 @@ display: inline-block;
 text-decoration: none;
 }
 
-
-
-/*IPhone Size*/
-@media (max-width:959px) {
-    /* h1 {
-    font-size: 1.5rem;
-    padding-top: 50px;
-    }
-
-    img, .overlay {
-    width: 240px;
-    height: 150px;
-    }
-
-    .border-text {
-    font-weight: bold;
-    text-align: center;
-    text-justify:inter-word;
-    font-size: 13px;
-    } */
-}
-
-
  @media only screen and (min-width: 900px) {
      .home-content-container {
         flex-direction: row;
@@ -111,3 +88,4 @@ text-decoration: none;
          padding-bottom: 2em;
      }
  }
+ 
