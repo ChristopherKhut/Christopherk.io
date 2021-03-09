@@ -11,8 +11,10 @@
 }
 
 .contact-wrapper {
-    padding-top: 100px;
-    padding-left: 40px;
+    /* padding-top: 100px;
+    padding-left: 40px; */
+    display: flex;
+    flex-direction: column;
 }
 
 .image-blur-wrapper {
@@ -48,8 +50,8 @@
 .contact-p {
     font-family: 'Dancing Script', cursive;
     font-size: 2rem;
-    margin-top: 50px;
-    margin-left: 400px;
+    /* margin-top: 50px;
+    margin-left: 400px; */
 }
 
 .pdf_icon {
@@ -60,4 +62,11 @@
 .flexbox-contact {
     display: flex;
     justify-content: space-evenly;
+}
+
+@media only screen and (min-width: 900px) {
+    .contact-wrapper {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
 }
