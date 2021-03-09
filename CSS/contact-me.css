@@ -48,4 +48,16 @@
 .contact-p {
     font-family: 'Dancing Script', cursive;
     font-size: 2rem;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.pdf_icon {
+    width: 300px;
+    height: 300px;
+}
+
+.flexbox-contact {
+    display: flex;
+    justify-content: space-evenly;
 }
