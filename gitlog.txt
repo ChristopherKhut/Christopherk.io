@@ -1,0 +1,377 @@
+commit 720ef4af5f921635856e8a205e9edc7371d65653
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Wed Mar 10 13:49:07 2021 +1100
+
+    COMPLETED EVERYTHING
+
+commit 69b9d8b133fe55f23b867eace76b39e26edf7a54
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Wed Mar 10 11:40:58 2021 +1100
+
+    completed
+
+commit edbe555c55ccdbb8e5c140e476152cbbd8730594
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 18:32:05 2021 +1100
+
+    FIXED RSI
+
+commit 8efeefd834f3d352176656505ea91b2ef6670f13
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 16:44:27 2021 +1100
+
+    last save from fixing SRI ISSUE
+
+commit 851e6df80ffe18e7af92e0bbb41ed757639f3a3e
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 15:48:06 2021 +1100
+
+    fixing issue
+
+commit 00f13c304af188897e0e50059cbebd14319cd62a
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 15:16:47 2021 +1100
+
+    ADDED MORE SRI TO CODE
+
+commit 0af7f8d25e019a2ed50541df8ecc9ec8b1eeb76d
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 15:12:17 2021 +1100
+
+    added SRI TO ALL CODES
+
+commit 646585da30d8ea31380a9e6f615d5ef4c818eb41
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 11:40:52 2021 +1100
+
+    COMPLETED PORTFOLIO
+
+commit 6060ad510651857d407af08bb995e9c1ded1d85b
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 11:21:09 2021 +1100
+
+    Completed ADDING RESUME TO WEBSITE
+
+commit 6bebd8916cc6e9db6d5e48b0bbf9f5c03e011891
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 10:43:09 2021 +1100
+
+    completed Contact-me page
+
+commit ff53c2b4b96295390880419d519f4ac056a6a0b5
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 10:15:36 2021 +1100
+
+    WORKING ON CONTACT-ME PAGE
+
+commit 51e20ae37e453dfb1ce0d7e3b5f7806e8a7c20d1
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 10:02:23 2021 +1100
+
+    ADDED DIRECTORY FOR CONTACT-ME
+
+commit e250f71750acd2837dc10fcf6f1839784ca77f13
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Tue Mar 9 09:53:31 2021 +1100
+
+    COMPLETED CONTENT PAGE AND HEAPS OF OTHER STUFF
+
+commit 83936397a4a129324170a0a3d56ac0acddeec801
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 14:38:38 2021 +1100
+
+    FIXED RESPONSIVE
+
+commit e11e29de0b881a283bdbf5a589c9fc4a4152d39f
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 14:25:40 2021 +1100
+
+    fixing responsive page
+
+commit fe6631f1b395ffe47f681d7e03714afbce6ca923
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 13:46:35 2021 +1100
+
+    ADDED NEW DIRECTORY OF RESUME AND ADDING STRUCTURE OF CONTENT
+
+commit accca9bb345990a25edf2c0cb8d9ca9bed57adac
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 13:27:09 2021 +1100
+
+    LINKING ABOUT ME, BLOGS AND CONTENT TOGETHER
+
+commit d6ebd494f80fc923aeb2426593e45e45ca68f4cb
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 13:17:55 2021 +1100
+
+    FIXED MORE COLOR
+
+commit 4380d3ed865b24dc07c814c1be30175c86775605
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 13:14:38 2021 +1100
+
+    FIXED SOME COLOR ON ABOUT ME PAGE
+
+commit c8f33f224d2d381858d67155f1ab0e3a90cbadc2
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 13:08:24 2021 +1100
+
+    COMPLETED ABOUT ME PAGE AND CSS UP TO NEXT PAGE! CONTENT!
+
+commit 159749ca41671c888d5b5d6a7eefcadefab4b7db
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 12:35:44 2021 +1100
+
+    RESIZING AND TRYING TO FIX RESPONSIVE ON ABOUT ME PAGE
+
+commit 1391581ac1dd4de8aafc4512135ce1276121ef74
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 11:02:37 2021 +1100
+
+    ADDED NEW IMAGE FOR ABOUT ME PAGE AND CREARTED AN ABOUT ME IMG FOLDER
+
+commit 9daec2cdd5fdcd3119b5923f673e3ba442157580
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 10:59:03 2021 +1100
+
+    ADDED OL,LI AND ABOUT ME TITLE
+
+commit a54a42fb52e39930e51ca7bf193b2c0d9537fccf
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 10:50:38 2021 +1100
+
+    added dates for Blog page
+
+commit d6b6c5d582b9ea4f7d487cfda90f44159436fd77
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 10:47:08 2021 +1100
+
+    COMPLETED HTML AND CSS PAGE!
+
+commit 4f7d16da53050a640b848a53d44e13165450aa07
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 10:45:13 2021 +1100
+
+    ADDED NEW IMAGES FOR BLOG REALISE NEEDED 5 BLOGS NOT 3
+
+commit 733d2caabed7127f63af5821c12bc123cfc90ccb
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 10:37:33 2021 +1100
+
+    CREATED ABOUT ME AND CSS PAGE
+
+commit 60dda4c0771a75dd502da1a9aabdff2342ec7e20
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 10:36:08 2021 +1100
+
+    cleaning code on CSS Blogs and HTML
+
+commit d4f5456d71ec4e4265692f0e26330826e5d1bef5
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 10:35:09 2021 +1100
+
+    COMPLETED BLOG PAGE AND CSS
+
+commit 4471be00bde90050a780a22439515603d7684c2e
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Mon Mar 8 09:35:17 2021 +1100
+
+    ADDED BLOGS AND EDIT INDEX.HTML
+
+commit 5b883275ed2a90de32c9137c180e31960a5fbaca
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sun Mar 7 20:52:48 2021 +1100
+
+    ADDED BLOGS HTML AND CSS
+
+commit 75c4b90f3f04b2e2e21fc1ec37ad5165c0368b5e
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sun Mar 7 20:45:18 2021 +1100
+
+    FIXED @MEDIA WITH SIZING PHONE AND TABLET ISSUE
+
+commit febfff4b9688f25c6ff142d3abedda8bb0b5c774
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sun Mar 7 20:18:32 2021 +1100
+
+    ADDED TABLET SIZE
+
+commit 644cfd1de94ad1a41e24e62eaef2d570ce40879f
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sun Mar 7 19:59:18 2021 +1100
+
+    ADDED MORE STUFF ON CSS
+
+commit 8fc398fbabe6b2a7af3bdcc163245e1c7c8fa11b
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 17:12:03 2021 +1100
+
+    IMAGE IS NOW ALIGN AND IN CENTER READY FOR NEXT TO MAKE TEXT IN CENTRE
+
+commit 504bbe42f6557796fa4a282d9a9a1328f17b467e
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 17:02:51 2021 +1100
+
+    RESPONSIVE MAKE IMAGE TO CENTER
+
+commit dd1551762326aed930963f1af6f2a43b10bd51fd
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 16:54:55 2021 +1100
+
+    STARTED ON MEDIA QUERY AND STARTING RESPONSIVE HOMEPAGE
+
+commit 20e301d2d80c2ed607fd9768411b46d008f6331c
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 16:40:36 2021 +1100
+
+    ADDED BORDERS TO THE IMAGES OF LINK
+
+commit 45234f98a43a4fb0a81f3722a401f297cdb289b0
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 16:29:13 2021 +1100
+
+    ADDED P TAGS AND BORDERS, MAKING IT MORE ALIVE
+
+commit 938c8176f0d86f876522f08abac97f6a88f9bb6e
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 15:46:14 2021 +1100
+
+    deleted image cause website too clustered
+
+commit 5497dc2b576ed15460c85fe3c3cad36b1e2b91db
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 15:32:39 2021 +1100
+
+    Found Another Image for Home-page
+
+commit 44f0e318ab74e20ac424428452f850f986d82035
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 11:27:18 2021 +1100
+
+    RESIZE IMAGES LINK
+
+commit 5e8dfed88d0fceaee97bfefb9013035be112d965
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 11:17:30 2021 +1100
+
+    CHANGED FONT SIZE AND COLOR ON IMAGE LINK
+
+commit 4ecb9dc768156570722464df938fe881b72f847f
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 10:44:39 2021 +1100
+
+    RESIZED IMAGE TEXT AND IMAGE ITSELF
+
+commit faaa28c8d39419d901c84215cccd16cbfe10a899
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 10:06:37 2021 +1100
+
+    CHANGED A TAG TO INLINE-BLOCK
+
+commit 591a0a394609b54426ab261cafec814ae9da1af7
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 09:59:53 2021 +1100
+
+    CHANGED IMAGE SIZE TO BE MORE SUITED FOR WEBSITE
+
+commit 09837af29045492e6838f5b6c22a08658f87b39a
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 09:58:12 2021 +1100
+
+    CREATE TRANSITION FOR IMAGE LINK
+
+commit 97e2c91a3f45d5063f20d1ce9871358c871a6f7c
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 09:48:21 2021 +1100
+
+    ADDED NEW FONTS TO TEXT ON IMAGE
+
+commit d7072a640771bbfa1b875610e560a5abe68b9517
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Sat Mar 6 09:38:30 2021 +1100
+
+    WRAPPED ANCHOR TAG OVER IMAGE AND OVERLAY SO THE IMAGE IS CLICKABLE
+
+commit c21ba4ea17eac10b13d5a755a9a6329ccd656386
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 18:57:19 2021 +1100
+
+    ADDED IMAGES TO THE HOMEPAGE
+
+commit dfd76c7ebb776d3e78909dcc7e060a8dc4bb8dc5
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 18:40:36 2021 +1100
+
+    Founded free none copyright images on unsplash
+
+commit db58a53bac7dfb50603e918a4ec44b3ceab3fe43
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 18:28:28 2021 +1100
+
+    ADDED FONTS TO ALL HTML BODY AND H1
+
+commit a2e9f3f43319f900abece4728b7babf91b202bd6
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 12:03:55 2021 +1100
+
+     changed background color of site, changed color of menu
+
+commit 834406ea1005c81ad1ea2cab0cf64f997c7f28ec
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 11:54:12 2021 +1100
+
+    COMPLETED ANIMATION AND HAMBURGER BAR MENU
+
+commit 92c19dad062c7e1f22dd63d880c6558a45434906
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 11:48:14 2021 +1100
+
+    DEBUG Menu.css /adding random spaces. fixed index.html. missing one div tag
+
+commit 7f9b7f1fe4759f48f167bdea47f8f3f10df6da40
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 10:44:39 2021 +1100
+
+    CREATED ANIMATION FOR HOVERING AND WHEN CHECKING HAMBURGER MENU
+
+commit 976b133e53125fcbb86213ec76a1d680ccdfc5ca
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 10:28:54 2021 +1100
+
+    CREATED HAMBURGER MENU LINES
+
+commit 5f59d2af7d819cbc20162621287f5899552bdc14
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 10:17:02 2021 +1100
+
+    Editing Hamburger menu still, deleted SVG realised don't need SVG
+
+commit fc910f4f2a3998b8add90c6010500fdfa0a5c7aa
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 10:11:32 2021 +1100
+
+    Working on the menu hamburger css, added hamburger SVG and created directory
+
+commit 9dfb20aa4f76cfccc2a3fd47b9af6b04fd6e0a03
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 09:54:11 2021 +1100
+
+    ADDED HAMBURGER NAVBAR MENU HTML
+
+commit 73a486b11469abf34a1342c81bdb866731b1309c
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 09:39:14 2021 +1100
+
+    ADDED HAMBURGER MENU CSS STYLESHEET IN
+
+commit 1597d9943f427aa8268fa79866538f371cd7bdce
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 09:29:37 2021 +1100
+
+    Created H1Title
+
+commit a7b2a6ec3c495077e6eceef42b3242b0b9d3565e
+Author: ChristopherKhut <cas012101@coderacademy.edu.au>
+Date:   Fri Mar 5 09:21:18 2021 +1100
+
+    Created Home-page index.html
